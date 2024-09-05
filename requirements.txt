@@ -1,1 +1,10 @@
-fastapi[all]
+fastapi
+uvicorn
+torch
+torchvision
+torchaudio
+monai
+nibabel
+numpy
+scikit-learn
+python-multipart
